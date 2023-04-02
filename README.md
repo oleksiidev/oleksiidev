@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oleksii</h1>
-<h3 align="center">A passionate Flutter developer from Poland</h3>
+<h3 align="center">A passionate front-end developer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oleksiidev&label=Profile%20views&color=0e75b6&style=flat" alt="oleksiidev" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning WEB dev
 
 - 📫 How to reach me **http://oleksii.sydorenko.dev@gmail.com/**
 
